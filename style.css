@@ -1,0 +1,25 @@
+div.Dettagli {
+      width: 30%;
+    margin-top: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin: 0;
+    padding: 0;
+    float: left;
+}
+
+div.Ricerca {
+      width: 70%;
+    background-color: #dedede;
+    margin-top: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-bottom: 0.3em;
+    padding-left: 1em;
+    padding-right: 1em;
+    padding-top: 0;
+    border: solid;
+    border-width: 1px;
+    border-color: navy;
+    float: right;
+}
