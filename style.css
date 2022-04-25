@@ -20,7 +20,7 @@ div.Ricerca {
 }
 
 div.AttivitàDidattica {
-    width: 86%;
+    width: 86.5%;
     background-color: #dedede;
     margin-top: 0;
     margin-left: 0;
@@ -36,7 +36,7 @@ div.AttivitàDidattica {
 }
 
 div.TesiETirocini {
-    width: 86%;
+    width: 86.5%;
     background-color: #dedede;
     margin-top: 0;
     margin-left: 0;
@@ -66,7 +66,7 @@ div.TesiETirocini {
 .sidenav a {
   padding: 6px 8px 6px 16px;
   text-decoration: none;
-  font-size: 25px;
+  font-size: 20px;
   color: #818181;
   display: block;
 }
@@ -74,3 +74,4 @@ div.TesiETirocini {
 .sidenav a:hover {
   color: #f1f1f1;
 }
+
