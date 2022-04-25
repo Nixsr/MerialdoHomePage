@@ -1,15 +1,10 @@
-div.Dettagli {
-      width: 30%;
-    margin-top: 0;
-    margin-left: 0;
-    margin-right: 0;
-    margin: 0;
-    padding: 0;
-    float: left;
+div.Informazioni {
+  margin-left: 160px; /* Same as the width of the sidenav */
+  padding: 0px 10px;
 }
 
 div.Ricerca {
-      width: 70%;
+    width: 95%;
     background-color: #dedede;
     margin-top: 0;
     margin-left: 0;
@@ -22,4 +17,60 @@ div.Ricerca {
     border-width: 1px;
     border-color: navy;
     float: right;
+}
+
+div.AttivitàDidattica {
+    width: 86%;
+    background-color: #dedede;
+    margin-top: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-bottom: 0.3em;
+    padding-left: 1em;
+    padding-right: 1em;
+    padding-top: 0;
+    border: solid;
+    border-width: 1px;
+    border-color: navy;
+    float: right;
+}
+
+div.TesiETirocini {
+    width: 86%;
+    background-color: #dedede;
+    margin-top: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-bottom: 0.3em;
+    padding-left: 1em;
+    padding-right: 1em;
+    padding-top: 0;
+    border: solid;
+    border-width: 1px;
+    border-color: navy;
+    float: right;
+}
+
+.sidenav {
+  height: 100%;
+  width: 170px;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #111;
+  overflow-x: hidden;
+  padding-top: 20px;
+}
+
+.sidenav a {
+  padding: 6px 8px 6px 16px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #818181;
+  display: block;
+}
+
+.sidenav a:hover {
+  color: #f1f1f1;
 }
